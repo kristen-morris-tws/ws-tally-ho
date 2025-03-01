@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "tally-worker",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "b98f818d-1646-47d6-88c5-d310edd5a257",
+      "database_name": "tally-db"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
